@@ -11,4 +11,5 @@ const getHeroesByOwner = (owner) => heroes.filter((heroe) => heroe.owner === own
 
 export {
     getHeroeById,
+    getHeroesByOwner,
 }
