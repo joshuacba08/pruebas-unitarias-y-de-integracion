@@ -3,11 +3,14 @@ html, body {
     background-color: #21232A;
     font-family: monospace;
     font-size: 1.3rem;
-    padding: 70px;
+    padding: 20px 70px;
 }
 
 button {
     font-size: 1.3rem;
     margin-right: 10px;
     padding: 10px;
+}
+hr {
+    margin: 20px 0px;
 }
